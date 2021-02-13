@@ -5,6 +5,7 @@
   * Text, number and other inputs.
   * Combobox.
   * Making a search for a data grid view.
+  * ...
 * REST API Communication and json parsing from API.
 * LINQ syntax and more complex usage.
 * SQL database communication writing/reading to DB.
